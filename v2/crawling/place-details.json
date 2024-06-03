@@ -1,0 +1,3101 @@
+[
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "73 Amoy St, Singapore 069892",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2803412,
+                        "lng": 103.8467476
+                    }
+                },
+                "name": "Alati Divine Greek Cuisine",
+                "place_id": "ChIJn0mYZQ0Z2jERomxAoOxa4zI",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 695
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "22 Scotts Rd, Singapore 228221",
+                "geometry": {
+                    "location": {
+                        "lat": 1.308128,
+                        "lng": 103.8341296
+                    }
+                },
+                "name": "Alma by Juan Amador",
+                "place_id": "ChIJtSfORu0Z2jERaTv_fbShVmM",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 487
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "10 Collyer Quay, Level 43, Singapore 049315",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2832397,
+                        "lng": 103.8520217
+                    }
+                },
+                "name": "Altro Zafferano",
+                "place_id": "ChIJ8Ts47w4Z2jER3wgHYemC4hw",
+                "rating": 4.4,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 951
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "1 St Andrew\u2019s Road, 06-02 National Gallery, Singapore 178957",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2907066,
+                        "lng": 103.8519791
+                    }
+                },
+                "name": "Art di Daniele Sperindio",
+                "place_id": "ChIJmzR_VQkZ2jERYb8SzlA6m0w",
+                "rating": 4.5,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 589
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "138 Market St, #40-01 CapitaGreen, Singapore 048946",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2818026,
+                        "lng": 103.8501248
+                    }
+                },
+                "name": "Artemis Grill & Sky Bar",
+                "place_id": "ChIJq_pn0w0Z2jERJ9ThzorUL6A",
+                "rating": 4.5,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1283
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "51 Bussorah St, Singapore 199467",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3018398,
+                        "lng": 103.8593332
+                    }
+                },
+                "name": "Ayasofya Turkish Restaurant",
+                "place_id": "ChIJL7m1cy8Z2jERHtaorNYRzuQ",
+                "rating": 4.7,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 2829
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "38A Martin Rd, Singapore 239072",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2921214,
+                        "lng": 103.8380038
+                    }
+                },
+                "name": "BAKALAKI Greek Taverna",
+                "place_id": "ChIJRRq6QncZ2jERYcsZfy_3zmM",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 3404
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "18 Gemmill Ln, Singapore 069255",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2822684,
+                        "lng": 103.8471694
+                    }
+                },
+                "name": "Bar-A-Thym Restaurant by Francois Mermilliod",
+                "place_id": "ChIJpfJt_AwZ2jER7ut0WFML4-U",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 333
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "165 Tg Pagar Rd, #01-00, Singapore 088539",
+                "geometry": {
+                    "location": {
+                        "lat": 1.275521,
+                        "lng": 103.8436042
+                    }
+                },
+                "name": "Bar-Roque Grill",
+                "place_id": "ChIJKZoOX2sZ2jERhJqFXCG1oAw",
+                "rating": 4.6,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1117
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "435 Orchard Rd, #04-01 Wisma Atria, Singapore 238877",
+                "geometry": {
+                    "location": {
+                        "lat": 1.303704,
+                        "lng": 103.8333035
+                    }
+                },
+                "name": "Baristart Coffee Singapore (Wisma Atria)",
+                "place_id": "ChIJmXdzNE892jERTfYo-ulcotk",
+                "rating": 4.3,
+                "types": [
+                    "cafe",
+                    "store",
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 60
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "65 Chulia St, #05-02 OCBC Centre, Singapore 049513",
+                "geometry": {
+                    "location": {
+                        "lat": 1.285069,
+                        "lng": 103.8491749
+                    }
+                },
+                "name": "Beng Thin Hoon Kee Restaurant",
+                "place_id": "ChIJq3cjkwsZ2jERaZ-Hkji-1mE",
+                "rating": 4.2,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 647
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "115 Amoy St, #01-01, Singapore 069935",
+                "geometry": {
+                    "location": {
+                        "lat": 1.282205,
+                        "lng": 103.8475758
+                    }
+                },
+                "name": "Birds of a Feather",
+                "place_id": "ChIJcTm7VAwZ2jERKhEYYOyi754",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 1415
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "Marina Bay Sands Hotel, Lobby Tower 2, #01-05/05A, 2 Bayfront Ave, Singapore 018972",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2840953,
+                        "lng": 103.8607704
+                    }
+                },
+                "name": "Blossom Restaurant",
+                "place_id": "ChIJm5OwF14Z2jER1Qjz37S5wYY",
+                "rating": 4.7,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1836
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "52 Boat Quay, #05-01/ #06-01, Singapore 049841",
+                "geometry": {
+                    "location": {
+                        "lat": 1.287083,
+                        "lng": 103.849347
+                    }
+                },
+                "name": "Braci",
+                "place_id": "ChIJ17aKNgoZ2jERXTW5rp1eD8M",
+                "rating": 4.5,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 465
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "10 Bayfront Ave, L1 - 81, Singapore 018956",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2825579,
+                        "lng": 103.8575503
+                    }
+                },
+                "name": "Bread Street Kitchen by Gordon Ramsay",
+                "place_id": "ChIJC3BflwUZ2jERgMDIKbg-Aso",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 3893
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "29 Scotts Rd, Singapore 228224",
+                "geometry": {
+                    "location": {
+                        "lat": 1.310717,
+                        "lng": 103.834701
+                    }
+                },
+                "name": "Buona Terra",
+                "place_id": "ChIJJfTNnu0Z2jERbnACwz4zeuk",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 287
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "81 Club St, Singapore 069449",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2818634,
+                        "lng": 103.8458084
+                    }
+                },
+                "name": "CENZO",
+                "place_id": "ChIJJcm-KfIZ2jERd1BuMuGODiU",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 175
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "17a Dempsey Rd, Singapore 249676",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3058022,
+                        "lng": 103.810095
+                    }
+                },
+                "name": "Candlenut",
+                "place_id": "ChIJ5ySHC3IZ2jERu-xiMMTjAVE",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1610
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "32 Boat Quay, Singapore 049821",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2862228,
+                        "lng": 103.8498206
+                    }
+                },
+                "name": "Charlie's Restaurant & Bar (Boat Quay)",
+                "place_id": "ChIJDx3vzwsZ2jER6ydTL0thLm0",
+                "rating": 4.2,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 380
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "25 Mackenzie Rd, Singapore 228681",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3046412,
+                        "lng": 103.8495641
+                    }
+                },
+                "name": "Chef Kang's Private Kitchen",
+                "place_id": "ChIJresOUQ0Y2jERaluk5Fvr1E0",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 305
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "9 Craig Rd, Singapore 089669",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2776438,
+                        "lng": 103.842759
+                    }
+                },
+                "name": "Coucou Authentic Swiss Restaurant and Bar",
+                "place_id": "ChIJTy0ppOgZ2jERe6fBEYFCvVY",
+                "rating": 4.5,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 717
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "290 Orchard Rd, #05 - 22, Singapore 238859",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3042445,
+                        "lng": 103.8359067
+                    }
+                },
+                "name": "Crystal Jade Golden Palace",
+                "place_id": "ChIJl_sOMpIZ2jERFHUflP3pEWs",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 731
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "30B Boat Quay, Singapore 049819",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2860955,
+                        "lng": 103.8499191
+                    }
+                },
+                "name": "Dark Horse Japanese Restaurant & Bar",
+                "place_id": "ChIJBf9ijzgZ2jERVOfl83L9Gfw",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "bar",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 122
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "1 Empress Pl, #01-03 Asian Civilisations Museum, Singapore 179555",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2873802,
+                        "lng": 103.8512492
+                    }
+                },
+                "name": "Empress",
+                "place_id": "ChIJ1XsulwkZ2jERvG8IxC7A_ZM",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 803
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "16 Jiak Chuan Rd, Singapore 089267",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2798595,
+                        "lng": 103.8420714
+                    }
+                },
+                "name": "Esquina",
+                "place_id": "ChIJe8_wgHIZ2jERzHYmjtT4fpI",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 891
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "40 Hongkong St, Singapore 059679",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2873167,
+                        "lng": 103.847462
+                    }
+                },
+                "name": "FOC Restaurant",
+                "place_id": "ChIJSSqJZm0Z2jERuHaJHZH3bnE",
+                "rating": 4.5,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1129
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "13 Stamford Rd, #02-28 Capitol Singapore, Singapore 178905",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2930416,
+                        "lng": 103.8511378
+                    }
+                },
+                "name": "Famous Treasure Chinese Restaurant",
+                "place_id": "ChIJIXnpQg0Z2jER1Ucw92w-sAc",
+                "rating": 4.2,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 491
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "20 Craig Rd, #01-03, Singapore 089692",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2777534,
+                        "lng": 103.8425009
+                    }
+                },
+                "name": "Firangi Superstar",
+                "place_id": "ChIJm22rVrAZ2jERHmyYckj-VuQ",
+                "rating": 4.3,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 622
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "64 Tras St, Singapore 079003",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2777778,
+                        "lng": 103.8441667
+                    }
+                },
+                "name": "Fleur De Sel Le Restaurant",
+                "place_id": "ChIJp2UFL20Z2jERJC_y2icO1kg",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 278
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "8A Marina Blvd, #02 - 02, Singapore 018984",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2793974,
+                        "lng": 103.8546647
+                    }
+                },
+                "name": "Forbidden Duck",
+                "place_id": "ChIJy-REF_EZ2jERNToDrxOESko",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 338
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "42 Boat Quay, Singapore 049831",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2866992,
+                        "lng": 103.8495874
+                    }
+                },
+                "name": "Forum Seafood Village Restaurant",
+                "place_id": "ChIJE5NfywsZ2jERe1jgWBJK0SQ",
+                "rating": 2.3,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 368
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "1 St Andrews Road 05-03 National Gallery, Singapore 178957",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2908546,
+                        "lng": 103.8519592
+                    }
+                },
+                "name": "GEMMA Restaurant",
+                "place_id": "ChIJ_TG-_pEZ2jER_bHebqCdr5U",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 332
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "16 Stanley St, Singapore 068735",
+                "geometry": {
+                    "location": {
+                        "lat": 1.280476,
+                        "lng": 103.84807
+                    }
+                },
+                "name": "Gaig Singapore",
+                "place_id": "ChIJM_R3nA0Z2jERvr--2_P8h2M",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 391
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "107 North Bridge Rd, #04-07, Singapore 179105",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2914102,
+                        "lng": 103.849955
+                    }
+                },
+                "name": "Godmama - Peranakan Restaurant Singapore",
+                "place_id": "ChIJ6Qz9tF8Z2jERSUYxPl8mg04",
+                "rating": 4.2,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 791
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "390 Havelock Rd, Level 1 King's Centre, Singapore 169662",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2896087,
+                        "lng": 103.8358913
+                    }
+                },
+                "name": "Grand Shanghai Restaurant",
+                "place_id": "ChIJF9leE50Z2jER4uEdueSxtsM",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 629
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "36 Purvis St, #01-03, Singapore 188613",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2966208,
+                        "lng": 103.8549145
+                    }
+                },
+                "name": "Gunther's",
+                "place_id": "ChIJ0Wkqc6UZ2jERmam6mzVinfg",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 266
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "7 Raffles Blvd, Singapore 039595",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2920683,
+                        "lng": 103.8587008
+                    }
+                },
+                "name": "Hai Tien Lo",
+                "place_id": "ChIJ19hBkqgZ2jERi7DUUcP90-w",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 598
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "8A Marina Blvd, #01-03 Ground Plaza, Singapore 018984",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2799447,
+                        "lng": 103.8547618
+                    }
+                },
+                "name": "Harry's Marina Bay Link Mall",
+                "place_id": "ChIJXW_IzA8Z2jERetz7n7zfAXM",
+                "rating": 4.1,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 272
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "77 Amoy St, Singapore 069896",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2805457,
+                        "lng": 103.8466433
+                    }
+                },
+                "name": "Hashida Singapore",
+                "place_id": "ChIJCbmoh7QZ2jERCib0bdwaY6s",
+                "rating": 4.8,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 70
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "581 Orchard Rd, Level 3 voco Orchard Singapore, an IHG Hotel, Singapore 238883",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3060925,
+                        "lng": 103.8292236
+                    }
+                },
+                "name": "Iggy's",
+                "place_id": "ChIJFQYC8YwZ2jERaWLMF9m1AqM",
+                "rating": 4.2,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 180
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "2 Stamford Rd, Level 70, Singapore 178882",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2933448,
+                        "lng": 103.85309
+                    }
+                },
+                "name": "JAAN By Kirk Westaway",
+                "place_id": "ChIJZ9ocfqYZ2jERwF5WxOIqsLw",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 531
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "The Shoppes at Marina Bay Sands, 2 Bayfront Ave, B1- 01B, Singapore 018972",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2820379,
+                        "lng": 103.8575819
+                    }
+                },
+                "name": "JUMBO Signatures",
+                "place_id": "ChIJ3z7wXGAZ2jERvEErIRegmjk",
+                "rating": 4.7,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 556
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "190 Orchard Blvd, Singapore 248646",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3051922,
+                        "lng": 103.8284188
+                    }
+                },
+                "name": "Jiang-Nan Chun",
+                "place_id": "ChIJqbrxYIwZ2jER0nv6PClRe_I",
+                "rating": 4.4,
+                "types": [
+                    "cafe",
+                    "store",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 394
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "2 Bayfront Ave, # B1 - 67, Singapore 018972",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2856843,
+                        "lng": 103.8597076
+                    }
+                },
+                "name": "KOMA Singapore",
+                "place_id": "ChIJFzUYYm8Z2jERs4gjq8fcHCA",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 2148
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "70, #02-02 Collyer Quay, Customs House, Singapore 049323",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2824913,
+                        "lng": 103.8534753
+                    }
+                },
+                "name": "Kinki Restaurant + Bar",
+                "place_id": "ChIJo8Nh_Q4Z2jERONS2OMrJ5tA",
+                "rating": 4.3,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1476
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "Keong Saik Rd., 4, Singapore 089110",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2794333,
+                        "lng": 103.8416097
+                    }
+                },
+                "name": "Kok Sen Restaurant",
+                "place_id": "ChIJ1UPefHIZ2jERNw75Jntk0oM",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 1633
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "76-78 Serangoon Rd, Singapore 217981",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3064914,
+                        "lng": 103.8519164
+                    }
+                },
+                "name": "Komala Vilas Restaurant, Singapore",
+                "place_id": "ChIJuey1wbgZ2jERuXx_dBjtBUk",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 6179
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "10 Bayfront Ave, Tower 1, Level 57, Singapore 018956",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2826231,
+                        "lng": 103.8600999
+                    }
+                },
+                "name": "LAVO Italian Restaurant And Rooftop Bar",
+                "place_id": "ChIJsRrnPwQZ2jERmUK_SYyLwTs",
+                "rating": 4.3,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 4308
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "333A Orchard Rd, #04 - 01 / 31, Singapore 238897",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3018632,
+                        "lng": 103.8369979
+                    }
+                },
+                "name": "Lawry's The Prime Rib Singapore",
+                "place_id": "ChIJnwvSIJIZ2jERpSK-8lcGiPk",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1433
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "5 Cox Terrace, Level 2 Fort Canning Arts Centre, Singapore 179620",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2947615,
+                        "lng": 103.8469286
+                    }
+                },
+                "name": "Le Jardin Restaurant",
+                "place_id": "ChIJV_K1ymYZ2jER39YtGS9Cv60",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 793
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "1 Scotts Rd, #01 - 16 Shaw Centre, Singapore 228208",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3066019,
+                        "lng": 103.8314361
+                    }
+                },
+                "name": "Les Amis",
+                "place_id": "ChIJR5yDbY0Z2jER6GcsxL56OLk",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 762
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "#25-01 One Raffles Quay, Singapore 048583",
+                "geometry": {
+                    "location": {
+                        "lat": 1.281142,
+                        "lng": 103.851928
+                    }
+                },
+                "name": "Liberty Insurance Pte Ltd (Singapore)",
+                "place_id": "ChIJdcuvIA0Z2jERf4cLbvOSiUg",
+                "rating": 3.3,
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 103
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "5 Straits View, #B2, #34 The Heart, Marina One, Singapore 018935",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2776381,
+                        "lng": 103.852424
+                    }
+                },
+                "name": "Little Bowl Singapore",
+                "place_id": "ChIJ4cQ9tg4Z2jERgeusS78HUgk",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 56
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "22 Ann Siang Rd, Singapore 069702",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2809785,
+                        "lng": 103.845602
+                    }
+                },
+                "name": "Lolla",
+                "place_id": "ChIJQ6ZjRA0Z2jER6Y4M_eiE5Lw",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 453
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "22 Gemmill Ln, Singapore 069257",
+                "geometry": {
+                    "location": {
+                        "lat": 1.282187,
+                        "lng": 103.847226
+                    }
+                },
+                "name": "Luke's Oyster Bar & Chop House",
+                "place_id": "ChIJ-bpG_AwZ2jERskkgk4_Fwr8",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 513
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "390 Orchard Road, 01-03 Palais Renaissance, 390 Orchard Rd, #01 - 03 / 04, Singapore 238871",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3065784,
+                        "lng": 103.8296124
+                    }
+                },
+                "name": "MERCI MARCEL ORCHARD",
+                "place_id": "ChIJuTpnZVQZ2jEReDI4VP2u_w0",
+                "rating": 4.7,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 2332
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "5 Straits View, #04-01 Marina One East Tower, Singapore 018935",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2779663,
+                        "lng": 103.8528486
+                    }
+                },
+                "name": "Majestic Restaurant",
+                "place_id": "ChIJ8_-PMBIZ2jERdzQvm7nWrHk",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 472
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "Singapore",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2856337,
+                        "lng": 103.8539173
+                    }
+                },
+                "name": "Majestic Cuisine Pte Ltd",
+                "place_id": "ChIJk8iVM3MY2jERdwJowi7qaD0",
+                "rating": 0,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 0
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "80 Middle Road Level 2 InterContinental Singapore, Singapore 188966",
+                "geometry": {
+                    "location": {
+                        "lat": 1.298505,
+                        "lng": 103.855053
+                    }
+                },
+                "name": "Man Fu Yuan Restaurant",
+                "place_id": "ChIJxZ2RNaUZ2jERbiQfyAWjkDU",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1281
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "21A Boon Tat Street Level 2 Located near, Telok Ayer St, Singapore 069620",
+                "geometry": {
+                    "location": {
+                        "lat": 1.281248,
+                        "lng": 103.8485347
+                    }
+                },
+                "name": "Meadesmoore",
+                "place_id": "ChIJ78cNLoYZ2jERinIfMLUzZGI",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 472
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "3A River Valley Rd, #01-02 (Level 2 Clarke Quay, The Riverhouse, Singapore 179020",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2900386,
+                        "lng": 103.845212
+                    }
+                },
+                "name": "Mimi Restaurant",
+                "place_id": "ChIJocpOk6kZ2jERAuHTOW2gzqo",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 395
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "6 Marina Blvd, #01-17 The Sail at Marina Bay, Singapore 018985",
+                "geometry": {
+                    "location": {
+                        "lat": 1.280649,
+                        "lng": 103.8529032
+                    }
+                },
+                "name": "Miss Fitz",
+                "place_id": "ChIJM49I5KEZ2jERV3eYeKIwAqg",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 114
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "74 Duxton Rd, Singapore 089533",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2782491,
+                        "lng": 103.84312
+                    }
+                },
+                "name": "Miyu",
+                "place_id": "ChIJWXvUK2cZ2jERYqnM64ktYMY",
+                "rating": 4.7,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 245
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "6 Stanley St, #01-01, Singapore 068725",
+                "geometry": {
+                    "location": {
+                        "lat": 1.279986,
+                        "lng": 103.847797
+                    }
+                },
+                "name": "Miznon Singapore",
+                "place_id": "ChIJeYPmLFEZ2jERLZVgLnPM3bg",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1338
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "110 Amoy St, #01-01, Singapore 069930",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2819533,
+                        "lng": 103.8476235
+                    }
+                },
+                "name": "North Singapore (By Miznon)",
+                "place_id": "ChIJQ9YpdvEZ2jERBG9j006UYD8",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 448
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "82 Collyer Quay, Singapore 049327",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2846419,
+                        "lng": 103.8540406
+                    }
+                },
+                "name": "Monti At 1-Pavilion Italian Restaurant",
+                "place_id": "ChIJtaVM0QgZ2jERkD9z0aHNw6A",
+                "rating": 4.2,
+                "types": [
+                    "night_club",
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1476
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "38 Maxwell Rd, #01-01/02 Airview Building, Air View Building, Singapore 069116",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2790836,
+                        "lng": 103.8451038
+                    }
+                },
+                "name": "Mouth Restaurant - \u5730\u8302\u9986",
+                "place_id": "ChIJqbQ4zn0Z2jER9CRLhNtz8aA",
+                "rating": 3.9,
+                "types": [
+                    "meal_delivery",
+                    "meal_takeaway",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 786
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "30 Victoria St, #02-01B C, Singapore 187996",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2949022,
+                        "lng": 103.8527083
+                    }
+                },
+                "name": "New Ubin Seafood CHIJMES",
+                "place_id": "ChIJ4UNsQ6QZ2jERArpaRK7uATI",
+                "rating": 4.4,
+                "types": [
+                    "meal_takeaway",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1661
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "110 Amoy St, #01-01, Singapore 069930",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2819533,
+                        "lng": 103.8476235
+                    }
+                },
+                "name": "North Singapore (By Miznon)",
+                "place_id": "ChIJQ9YpdvEZ2jERBG9j006UYD8",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 448
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "72 Amoy St, Singapore 069891",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2802746,
+                        "lng": 103.8466022
+                    }
+                },
+                "name": "Nouri",
+                "place_id": "ChIJq9pPbw0Z2jERqnm8RBMSAjY",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 405
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "60 Collyer Quay, Singapore 049322",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2835014,
+                        "lng": 103.8531358
+                    }
+                },
+                "name": "OUE Tower",
+                "place_id": "ChIJw4L-2w4Z2jER4uL95POuIe0",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 93
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "88 Market St, #51-01, Singapore 048948",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2837048,
+                        "lng": 103.8501235
+                    }
+                },
+                "name": "OUMI Modern Japanese Kappo Restaurant",
+                "place_id": "ChIJI5tuqj0R2jERZ93YD64Fxq4",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 59
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "1 St Andrew's Rd, #01-04 National Gallery, Singapore 178957",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2897067,
+                        "lng": 103.8514433
+                    }
+                },
+                "name": "Odette",
+                "place_id": "ChIJbUjtT6cZ2jERJOB8kHFKljI",
+                "rating": 4.7,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1156
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "55 Keong Saik Rd., #01-03, Singapore 089158",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2806358,
+                        "lng": 103.8415896
+                    }
+                },
+                "name": "Olivia Restaurant & Lounge",
+                "place_id": "ChIJHfUPa50Z2jERGJvm5OXf788",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 695
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "333 Orchard Rd, Level 5, Singapore 238867",
+                "geometry": {
+                    "location": {
+                        "lat": 1.302036,
+                        "lng": 103.8358858
+                    }
+                },
+                "name": "Osteria Mozza",
+                "place_id": "ChIJLXhQg6UZ2jER_QGp15ggBTY",
+                "rating": 4.6,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1061
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "127 Kitchener Rd, Singapore 208514",
+                "geometry": {
+                    "location": {
+                        "lat": 1.309551,
+                        "lng": 103.8573328
+                    }
+                },
+                "name": "PUTIEN Kitchener Road",
+                "place_id": "ChIJ3zy8ZcgZ2jERagAaSeDB9bI",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 1871
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "30 Boat Quay, Singapore 049819",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2860763,
+                        "lng": 103.849884
+                    }
+                },
+                "name": "Pasta Fresca Da Salvatore (Boat Quay)",
+                "place_id": "ChIJgfFl2wsZ2jERpA7kKbAsJkM",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 595
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "12 Marina Boulevard, Tower 3, #01-05/06 Marina Bay Financial Centre, Singapore 018982",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2794242,
+                        "lng": 103.85443
+                    }
+                },
+                "name": "Path Restaurant",
+                "place_id": "ChIJpXP0eYAZ2jEReM0l4h0xDH4",
+                "rating": 4.7,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 234
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "9 Raffles Boulevard, #01-01, Millenia Walk, Singapore 039596",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2930767,
+                        "lng": 103.8582873
+                    }
+                },
+                "name": "Paulaner Br\u00e4uhaus Singapore",
+                "place_id": "ChIJCUEDxqgZ2jERLoWQ7ycLoQ8",
+                "rating": 4.6,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 2781
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "1 Nanson Rd, Singapore 238909",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2898174,
+                        "lng": 103.8385654
+                    }
+                },
+                "name": "Publico Ristorante",
+                "place_id": "ChIJlc7j350Z2jEReV1IVnbJCxc",
+                "rating": 4.3,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 2761
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "5 Wallich St, #01-16, Singapore 078883",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2766695,
+                        "lng": 103.8462753
+                    }
+                },
+                "name": "Pura Brasa Singapore",
+                "place_id": "ChIJAcojGBMZ2jERgPMPzf89eaw",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 1470
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "6 Eu Tong Sen St, #02-72 to 75/77/92 The Central, Singapore 059817",
+                "geometry": {
+                    "location": {
+                        "lat": 1.289174,
+                        "lng": 103.846216
+                    }
+                },
+                "name": "Rendezvous Restaurant Hock Lock Kee",
+                "place_id": "ChIJ18C-mwoZ2jERiDU5EDJWsDU",
+                "rating": 4.2,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 525
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "76 Tras St, Singapore 079015",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2774708,
+                        "lng": 103.8441306
+                    }
+                },
+                "name": "Restaurant Euphoria",
+                "place_id": "ChIJ99ae4CcZ2jERhNdU8AYgcsg",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 151
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "21 Tg Pagar Rd, #01-01/02 Next to the Fairfield Methodist Church, Singapore 088444",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2796868,
+                        "lng": 103.8440099
+                    }
+                },
+                "name": "Restaurant Fiz",
+                "place_id": "ChIJJ8s24l8Z2jERmHd_s9Vxa1s",
+                "rating": 4.8,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 38
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "18 N Canal Rd, Singapore 048830",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2863647,
+                        "lng": 103.8483034
+                    }
+                },
+                "name": "Restaurant Ibid",
+                "place_id": "ChIJzUZNrgsZ2jER2epSYaG6Gyg",
+                "rating": 4.9,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 762
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "3 Fullerton Rd, #02-01/02/03 The Fullerton Waterboat House, Singapore 049215",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2870904,
+                        "lng": 103.8534667
+                    }
+                },
+                "name": "Restaurant Matera",
+                "place_id": "ChIJOzm-ewsZ2jERw7ogKjE31no",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "bar",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 44
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "39 Kreta Ayer Rd, #01-01, Singapore 089002",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2808874,
+                        "lng": 103.8421136
+                    }
+                },
+                "name": "Restaurant Reve - Singapore",
+                "place_id": "ChIJYfhzeQcZ2jERiDI4Shy-BCQ",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 83
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "56 Tras St, Singapore 078995",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2779485,
+                        "lng": 103.8442501
+                    }
+                },
+                "name": "Revolver",
+                "place_id": "ChIJDxn4XBYZ2jERrbHE7aDSKGY",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 267
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "18 Tg Pagar Rd, Singapore 088441",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2799892,
+                        "lng": 103.8438547
+                    }
+                },
+                "name": "Ristorante Luka - Tanjong Pagar",
+                "place_id": "ChIJRxJhpnIZ2jERjCPncxtp5jg",
+                "rating": 4.3,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 833
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "19 Cecil St, Singapore 049704",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2824433,
+                        "lng": 103.8505403
+                    }
+                },
+                "name": "Rosemead Singapore",
+                "place_id": "ChIJ40ZjcpQZ2jERb8I3SEzYs_4",
+                "rating": 4.5,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 173
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "100 Tras St, #03-14, Singapore 079027",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2744954,
+                        "lng": 103.8436338
+                    }
+                },
+                "name": "SABAR Singapore",
+                "place_id": "ChIJQZSF3KIZ2jERQA0GffcBSFw",
+                "rating": 4.2,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 265
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "6 Marina Blvd, #01-18/19 The Sail at Marina Bay, Singapore 018985",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2805865,
+                        "lng": 103.8527915
+                    }
+                },
+                "name": "SOS Bar Restaurant",
+                "place_id": "ChIJc9mCRw4Z2jER-H2AVBjcDYY",
+                "rating": 4.3,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 190
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "1 Fullerton Road, #02-02B, One Fullerton, Singapore 049213",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2862514,
+                        "lng": 103.8542577
+                    }
+                },
+                "name": "Saint Pierre",
+                "place_id": "ChIJ2eBfe3UZ2jERWLXoC909C84",
+                "rating": 4.7,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 267
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "5 Purvis St, #01-04, Singapore 188584",
+                "geometry": {
+                    "location": {
+                        "lat": 1.296736,
+                        "lng": 103.8549624
+                    }
+                },
+                "name": "Saveur Bistro",
+                "place_id": "ChIJN-1JbaUZ2jERJUYHj8Svv0A",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 937
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "80 Mohamed Sultan Rd, #01-13, Singapore 239013",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2910376,
+                        "lng": 103.8405841
+                    }
+                },
+                "name": "Shabestan, Finest Persian Restaurant",
+                "place_id": "ChIJJxuJ8Z4Z2jER4erCmq37t1A",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1384
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "2 Cook Street at Maxwell Reserve, Autograph Collection, Singapore 078857",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2788776,
+                        "lng": 103.8444008
+                    }
+                },
+                "name": "Shikar",
+                "place_id": "ChIJx-WRGZYZ2jERdVyFlsW1OiM",
+                "rating": 4.2,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 162
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "76 Bras Basah Rd, Singapore 189558",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2959926,
+                        "lng": 103.8522663
+                    }
+                },
+                "name": "Shinji by Kanesaka",
+                "place_id": "ChIJhT77p6UZ2jERQa3Qq7yIIeo",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 483
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "29 Tanglin Rd, Singapore 247911",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3056718,
+                        "lng": 103.8259335
+                    }
+                },
+                "name": "Shinji by Kanesaka",
+                "place_id": "ChIJo8XdDIsZ2jERghtpkkSHTXc",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 309
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "1 Fullerton Rd, #02-02A One Fullerton, Singapore 049213",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2857128,
+                        "lng": 103.8538902
+                    }
+                },
+                "name": "Shoukouwa Restaurant",
+                "place_id": "ChIJu1_G5ggZ2jER_LJ4SRQX9JQ",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 158
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "80 Robinson Rd, #02-00, Singapore 068898",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2801944,
+                        "lng": 103.8493108
+                    }
+                },
+                "name": "Singapore Super Hi Dining Pte. Ltd.",
+                "place_id": "ChIJD97VBZwZ2jER_VSbBGYuPD0",
+                "rating": 0,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 0
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "2 Marina Blvd, #01-02, Singapore 018987",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2811436,
+                        "lng": 103.8530077
+                    }
+                },
+                "name": "Sommer",
+                "place_id": "ChIJhQtWUpcZ2jERZop-FeD1cCY",
+                "rating": 4.7,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 186
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "122 Middle Rd, Level 2 Mercure Singapore Bugis, Singapore 188973",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2995051,
+                        "lng": 103.8532348
+                    }
+                },
+                "name": "Song Garden Chinese Restaurant",
+                "place_id": "ChIJ1fPtGLsZ2jERR3xFklcSFZo",
+                "rating": 4.4,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 366
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "8 Raffles Ave., #02-21 Esplanade Mall, Singapore 039802",
+                "geometry": {
+                    "location": {
+                        "lat": 1.289821,
+                        "lng": 103.8562328
+                    }
+                },
+                "name": "Straits Chinese Nonya Restaurant \u571f\u751f\u574a\u6b63\u5b97\u5a18\u60f9\u9910\u9986 (1953)",
+                "place_id": "ChIJDwyjCSQZ2jERVTSjY4675kM",
+                "rating": 4.4,
+                "types": [
+                    "meal_delivery",
+                    "meal_takeaway",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 415
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "7 Raffles Ave., Singapore 039799",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2906013,
+                        "lng": 103.8603033
+                    }
+                },
+                "name": "Summer Pavilion",
+                "place_id": "ChIJhyAGsKkZ2jERMy2EGAnyv4k",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 655
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "70 Collyer Quay, #01-04 Customs House, Singapore 049323",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2824428,
+                        "lng": 103.8536865
+                    }
+                },
+                "name": "Super Loco Customs House",
+                "place_id": "ChIJV5DGKQ8Z2jER_lQ29niQJzk",
+                "rating": 4.3,
+                "types": [
+                    "meal_delivery",
+                    "meal_takeaway",
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1434
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "269 Beach Rd, Singapore 199546",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3006368,
+                        "lng": 103.8601786
+                    }
+                },
+                "name": "The Coconut Club",
+                "place_id": "ChIJ2Tc3MA0Z2jERXkN6MsVZXZc",
+                "rating": 4.2,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 2403
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "61 Tg Pagar Rd, Singapore 088482",
+                "geometry": {
+                    "location": {
+                        "lat": 1.278353,
+                        "lng": 103.8438801
+                    }
+                },
+                "name": "The Feather Blade | Steak, Burgers & Cocktail Bar",
+                "place_id": "ChIJK4AcWaIZ2jER3XQHNTDQrvk",
+                "rating": 4.6,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 2595
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "13 Stamford Rd, #01-84B Arcade @ The Capitol Kempinski, Singapore 178905",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2935979,
+                        "lng": 103.8516083
+                    }
+                },
+                "name": "The Masses Singapore",
+                "place_id": "ChIJXe2gi68Z2jERr0boNPNy_LE",
+                "rating": 4.3,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 991
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "48 Peck Seah St, Singapore 079317",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2779306,
+                        "lng": 103.844885
+                    }
+                },
+                "name": "The Prince (formerly Fat Prince) | Modern Arabic & Middle Eastern Restaurant",
+                "place_id": "ChIJjZCj0hIZ2jERFf54vtrt17Y",
+                "rating": 4.2,
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1112
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "5 Straits View, #01-26/27 Marina One East Tower, Singapore 018935",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2780388,
+                        "lng": 103.8531501
+                    }
+                },
+                "name": "The Spot - Singapore",
+                "place_id": "ChIJq6pqohEZ2jERAWzgPlS-rxM",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "bar",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 696
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "227 River Valley Rd, Singapore 238285",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2938406,
+                        "lng": 103.8423604
+                    }
+                },
+                "name": "The Tavern Restaurant",
+                "place_id": "ChIJqXF71JgZ2jER7FBrMWioEG8",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 122
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "B2-02/03/04, Canal Level, The Shoppes 2 BayFront Ave, Marina Bay Sands, Singapore 018972",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2827284,
+                        "lng": 103.8578119
+                    }
+                },
+                "name": "Tim Ho Wan",
+                "place_id": "ChIJLdwR4BkZ2jERcAr0ieh9BeQ",
+                "rating": 3.6,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "user_ratings_total": 310
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "1 Fullerton Square, Singapore 049178",
+                "geometry": {
+                    "location": {
+                        "lat": 1.286328,
+                        "lng": 103.853084
+                    }
+                },
+                "name": "Town Restaurant",
+                "place_id": "ChIJbxecDwkZ2jERu1e6qbCBb9c",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 579
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "60 Collyer Quay, Level 10 OUE Tower, Singapore 049322",
+                "geometry": {
+                    "location": {
+                        "lat": 1.283527,
+                        "lng": 103.853136
+                    }
+                },
+                "name": "T\u00f3ng L\u00e8 Private Dining",
+                "place_id": "ChIJ6bdv5g4Z2jER4MBnHQehiOE",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 297
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "OUE Bayfront, 50 Collyer Quay Rooftop Level 19, Singapore 049321",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2830712,
+                        "lng": 103.853012
+                    }
+                },
+                "name": "VUE",
+                "place_id": "ChIJ84e5vlgZ2jERxJQeoaRAQaQ",
+                "rating": 4.8,
+                "types": [
+                    "restaurant",
+                    "bar",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1411
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "5 Straits View, Marina One West Tower, #04-02, The Heart, Singapore 018935",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2776331,
+                        "lng": 103.8531473
+                    }
+                },
+                "name": "WAKANUI GRILL DINING SINGAPORE",
+                "place_id": "ChIJ_STuuhEZ2jERuFmRV18g3Vc",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 507
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "22 Orange Grove Rd, Level One, Garden Wing, Singapore 258350",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3117795,
+                        "lng": 103.8261646
+                    }
+                },
+                "name": "Waterfall Ristorante Italiano",
+                "place_id": "ChIJEU6YevQZ2jER4gbYl-0KQss",
+                "rating": 4.5,
+                "types": [
+                    "meal_delivery",
+                    "meal_takeaway",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 542
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "30 Victoria St, #01-26/27 CHIJMES, Singapore 187996",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2955575,
+                        "lng": 103.8519487
+                    }
+                },
+                "name": "Whitegrass Restaurant",
+                "place_id": "ChIJkZFsaaQZ2jERNwIpeScG3vM",
+                "rating": 4.7,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 639
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "1 St Andrew's Rd, #05-02 National Gallery, Singapore 178957",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2902783,
+                        "lng": 103.8517729
+                    }
+                },
+                "name": "Yan Restaurant at National Gallery Singapore \u5bb4\u4e2d\u9910\u9986",
+                "place_id": "ChIJLxx8T6cZ2jERXDPzASEmG6k",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 594
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "2 Bayfront Ave, # B1 - 07, Singapore 018972",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2830591,
+                        "lng": 103.8580401
+                    }
+                },
+                "name": "Yardbird Southern Table and Bar",
+                "place_id": "ChIJn9YqwQUZ2jERQd1xVpCATwk",
+                "rating": 4.2,
+                "types": [
+                    "restaurant",
+                    "bar",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 2001
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "83 Duxton Rd, Duxton Reserve, Singapore 089540",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2786983,
+                        "lng": 103.84319
+                    }
+                },
+                "name": "Yellow Pot Tanjong Pagar",
+                "place_id": "ChIJP_zH9VkZ2jERNfJDM0o0EwE",
+                "rating": 4.1,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 247
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "41 Bukit Pasoh Rd, Singapore 089855",
+                "geometry": {
+                    "location": {
+                        "lat": 1.2794794,
+                        "lng": 103.840384
+                    }
+                },
+                "name": "Z\u00e9n",
+                "place_id": "ChIJpxlhJpkZ2jER7gzIjfgz8co",
+                "rating": 4.6,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 221
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "candidates": [
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "581 Orchard Road voco, Level 24 Orchard, Singapore 238883",
+                "geometry": {
+                    "location": {
+                        "lat": 1.3059057,
+                        "lng": 103.8293282
+                    }
+                },
+                "name": "il Cielo",
+                "place_id": "ChIJFQYC8YwZ2jERAoscWba7IaQ",
+                "rating": 4.5,
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 342
+            }
+        ],
+        "status": "OK"
+    }
+]
