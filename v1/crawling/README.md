@@ -1,0 +1,1 @@
+All output files are provided for convenience. Especially since it takes ~15 mins to produce the output files in /raw.
